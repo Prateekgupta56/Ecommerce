@@ -47,5 +47,5 @@ Future Improvements
 - Add Admin Dashboard to manage products
 
 
-Author
+Author:
 Prateek Gupta
